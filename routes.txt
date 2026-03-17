@@ -1,0 +1,5 @@
+R001,Downtown Express,50,15,2.50,08:00 AM
+R002,University Shuttle,40,35,1.75,09:30 AM
+R003,Airport Connector,60,60,5.00,10:15 AM
+R004,City Loop,30,10,1.50,11:00 AM
+R005,Night Owl,45,45,3.00,10:00 PM
